@@ -36,7 +36,7 @@ With just a CSV URL, AutoSight:
 
 ## 📁 Folder Structure
 
-
+```
 AutoSight/
 ├── main.py                      # Orchestrates entire pipeline
 ├── dashboard.py                 # Streamlit frontend
@@ -50,7 +50,7 @@ AutoSight/
 │   │   └── agent.py             # Analyzes data + generates summary
 │   └── bigquery\_writer\_agent/
 │       └── agent.py             # Loads dataset into BigQuery
-
+```
 
 
 ---
@@ -147,7 +147,7 @@ venv/
 
 Built by **Shaun Danny**
 
-📧 [dannysha@mail.utoronto.ca](mailto:shaundanny2007@gmail.com)
+📧 [shaundanny2007@gmail.com](mailto:shaundanny2007@gmail.com)
 💼 [LinkedIn]((https://www.linkedin.com/in/shaundanny/))
 
 ---
