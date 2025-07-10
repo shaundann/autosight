@@ -147,8 +147,8 @@ venv/
 
 Built by **Shaun Danny**
 
-📧 [dannysha@mail.utoronto.ca](mailto:dannysha@mail.utoronto.ca)
-💼 [LinkedIn](https://www.linkedin.com/in/shaun-danny)
+📧 [dannysha@mail.utoronto.ca](mailto:shaundanny2007@gmail.com)
+💼 [LinkedIn]((https://www.linkedin.com/in/shaundanny/))
 
 ---
 
