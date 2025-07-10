@@ -1,8 +1,3 @@
-Absolutely! Here's your complete `README.md` rewritten in **pure Markdown syntax** with your finalized project name: **AutoSight**.
-
----
-
-```markdown
 # 🤖 AutoSight – Automated AI Data Analysis Pipeline on Google Cloud
 
 **AutoSight** is a multi-agent AI system that automates the entire data analytics pipeline — from dataset ingestion to AI-powered insights — using Google Cloud Platform (GCP).
@@ -41,7 +36,6 @@ With just a CSV URL, AutoSight:
 
 ## 📁 Folder Structure
 
-```
 
 AutoSight/
 ├── main.py                      # Orchestrates entire pipeline
